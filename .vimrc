@@ -1,0 +1,9 @@
+syntax on
+set background=dark
+set number
+set autoindent
+set expandtab
+set shiftwidth=2
+set tabstop=2
+set hlsearch
+set incsearch
