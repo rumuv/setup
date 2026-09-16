@@ -8,4 +8,4 @@ echo 'eval "$(/opt/homebrew/bin/brew shellenv zsh)"' >> $HOME/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv zsh)"
 
 # Install apps
-brew install tmux
+brew install tmux ansible
